@@ -1,15 +1,10 @@
 # 🧠 Memory Game
-Este é um jogo da memória desenvolvido em [insira a linguagem/framework usado], onde os jogadores combinam pares de emojis em um tabuleiro. O objetivo do jogo é encontrar todos os pares correspondentes no menor tempo possível e com o menor número de tentativas.
+Este é um jogo da memória desenvolvido em HTML, JS e CSS, onde os jogadores combinam pares de emojis em um tabuleiro. O objetivo do jogo é encontrar todos os pares correspondentes no menor tempo possível e com o menor número de tentativas.
 
 ### 🎮 Funcionalidades
 Jogo interativo com emojis divertidos!
-Contagem de tentativas e tempo de jogo.
-Dificuldades ajustáveis (número de cartas).
 Design responsivo para uma experiência em dispositivos móveis e desktops.
-🚀 Tecnologias Utilizadas
-Linguagem: [insira a linguagem usada, ex: JavaScript, Python, etc.]
-Framework/Bibliotecas: [insira o framework ou bibliotecas utilizadas, ex: React, Vue, etc.]
-Estilo: [insira a tecnologia de estilo usada, ex: CSS, Bootstrap, etc.]
+
 
 ### 📦 Instalação
 Para rodar o projeto localmente, siga os passos abaixo:
