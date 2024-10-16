@@ -1,4 +1,4 @@
-# 🧠 MemoryGame
+# 🧠 Memory Game
 Este é um jogo da memória desenvolvido em [insira a linguagem/framework usado], onde os jogadores combinam pares de emojis em um tabuleiro. O objetivo do jogo é encontrar todos os pares correspondentes no menor tempo possível e com o menor número de tentativas.
 
 ### 🎮 Funcionalidades
