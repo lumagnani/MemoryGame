@@ -15,25 +15,24 @@ Estilo: [insira a tecnologia de estilo usada, ex: CSS, Bootstrap, etc.]
 Para rodar o projeto localmente, siga os passos abaixo:
 
 Clone este repositório:
-
-bash
-Copy code
+´´´
 git clone https://github.com/usuario/repositorio-jogo-da-memoria.git
+´´´
+
 Navegue até a pasta do projeto:
-
-bash
-Copy code
+´´´
 cd repositorio-jogo-da-memoria
+´´´
+
 Instale as dependências necessárias:
-
-bash
-Copy code
+´´´
 [insira o comando de instalação das dependências, ex: npm install]
-Execute o projeto:
+´´´
 
-bash
-Copy code
+Execute o projeto:
+´´´
 [insira o comando para rodar o projeto, ex: npm start]
+´´´
 
 🕹️ Como Jogar
 O tabuleiro será mostrado com as cartas viradas para baixo.
