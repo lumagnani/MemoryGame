@@ -12,12 +12,12 @@ Para rodar o projeto localmente, siga os passos abaixo:
 Clone este repositório:
 
 ```
-git clone https://github.com/usuario/repositorio-jogo-da-memoria.git
+git clone https://github.com/lumagnani/MemoryGame.git
 ```
 
 Navegue até a pasta do projeto:
 ```
-cd repositorio-jogo-da-memoria
+cd MemoryGame
 ```
 
 Instale as dependências necessárias:
